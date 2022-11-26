@@ -1,0 +1,8 @@
+﻿BaiduConfig:
+  ClientID: ''
+  ClientSecret: ''
+  DownloadPath: /SharpBot
+TelegramConfig:
+  BotToken: ''
+  ChatID: ''
+  TransFinishAddtionDesc: 到alist查看转存结果

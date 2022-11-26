@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/SharpBot/config/meta.db
+/SharpBot_Test/config/meta.db
+/SharpBot/logs/

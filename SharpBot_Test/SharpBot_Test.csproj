@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+
+        <IsPackable>false</IsPackable>
+
+        <RootNamespace>SharpBot_Test</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Catalyst" Version="1.0.30301" />
+        <PackageReference Include="Catalyst.Models.Chinese" Version="1.0.24970" />
+        <PackageReference Include="Catalyst.Models.English" Version="1.0.24970" />
+        <PackageReference Include="Dapper" Version="2.0.123" />
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0-preview.5.22301.12" />
+        <PackageReference Include="Microsoft.Extensions.Primitives" Version="7.0.0-preview.5.22301.12" />
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+        <PackageReference Include="NetEscapades.Configuration.Yaml" Version="2.2.0" />
+        <PackageReference Include="NUnit" Version="3.13.3" />
+        <PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
+        <PackageReference Include="NUnit.Analyzers" Version="3.3.0" />
+        <PackageReference Include="coverlet.collector" Version="3.1.2" />
+        <PackageReference Include="Serilog" Version="2.11.1-dev-01397" />
+        <PackageReference Include="Serilog.Extensions.Hosting" Version="5.0.0-dev-00095" />
+        <PackageReference Include="Serilog.Settings.Configuration" Version="3.3.1-dev-00337" />
+        <PackageReference Include="Serilog.Sinks.Console" Version="4.0.2-dev-00890" />
+        <PackageReference Include="Serilog.Sinks.File" Version="5.0.1-dev-00947" />
+        <PackageReference Include="Serilog.Sinks.SQLite" Version="5.0.0" />
+        <PackageReference Include="sqlite-net" Version="1.6.292" />
+        <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+        <PackageReference Include="sqlite-net-static" Version="1.8.116" />
+        <PackageReference Include="Telegram.Bot" Version="18.0.0" />
+        <PackageReference Include="TMDbLib" Version="1.9.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SharpBot\SharpBot.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="appsettings.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <Content Include="config\config.yaml">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="py\BaiduYunTransfer.conf" />
+      <None Remove="py\BaiduYunTransfer.py" />
+    </ItemGroup>
+
+</Project>

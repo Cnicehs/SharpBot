@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpBot", "SharpBot\SharpBot.csproj", "{959C291D-7CCA-4BA0-9BB4-18732DAFCF14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpBot_Test", "SharpBot_Test\SharpBot_Test.csproj", "{FE9A0083-D2C8-4A2F-97F9-C1B5292B3452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959C291D-7CCA-4BA0-9BB4-18732DAFCF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959C291D-7CCA-4BA0-9BB4-18732DAFCF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959C291D-7CCA-4BA0-9BB4-18732DAFCF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959C291D-7CCA-4BA0-9BB4-18732DAFCF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9A0083-D2C8-4A2F-97F9-C1B5292B3452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9A0083-D2C8-4A2F-97F9-C1B5292B3452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9A0083-D2C8-4A2F-97F9-C1B5292B3452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9A0083-D2C8-4A2F-97F9-C1B5292B3452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

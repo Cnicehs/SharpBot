@@ -1,0 +1,35 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\crint\.nuget\packages\cliwrap\3.5.0\lib\netcoreapp3.0\CliWrap.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5548fdba_002D2c5b_002D4a14_002Da965_002D222b0dc487b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="APITest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE9A0083-D2C8-4A2F-97F9-C1B5292B3452::net7.0::SharpBot_Test.ProcessTest.APITest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=61f67bb1_002Dd5d6_002D40f8_002Db278_002Da96e5cd73156/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE9A0083-D2C8-4A2F-97F9-C1B5292B3452::net7.0::SharpBot_Test.ProcessTest.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE9A0083-D2C8-4A2F-97F9-C1B5292B3452::net7.0::SharpBot_Test.ProcessTest.APITest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7a7c7758_002De4a0_002D4e50_002D9b68_002D5f2397bce325/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="APITest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE9A0083-D2C8-4A2F-97F9-C1B5292B3452::net7.0::SharpBot_Test.ProcessTest.APITest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91147f3f_002Dbd8a_002D405e_002Daf8c_002D18d8750a3a89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE9A0083-D2C8-4A2F-97F9-C1B5292B3452::net7.0::SharpBot_Test.ProcessTest.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE9A0083-D2C8-4A2F-97F9-C1B5292B3452::net7.0::SharpBot_Test.ProcessTest.APITest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3b46d41_002D9ee8_002D49e1_002D9dce_002D4f4e20688cc6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE9A0083-D2C8-4A2F-97F9-C1B5292B3452::net7.0::SharpBot_Test.ProcessTest.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FE9A0083-D2C8-4A2F-97F9-C1B5292B3452::net7.0::SharpBot_Test.ProcessTest.APITest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=SharpBot_005FBaiduConfig_005FRefreshToken/@EntryIndexedValue">122.f7cdb13569c3d3d836bfbd3a5a0eaa8f.YmdjBFDNAaNkrOeS868oRRVqSgWn9Hxf15WgqLe.CmGa1w</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=SharpBot_005FTelegramConfig_005FBotToken/@EntryIndexedValue">5685609452:AAHpEV4Y69ztgRfVo3h3-n3tnIv36QURy5E</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/EnvironmentVariablesIndexed/=SharpBot_005FTelegramConfig_005FChatID/@EntryIndexedValue">874853399</s:String></wpf:ResourceDictionary>
