@@ -1,8 +1,7 @@
 BaiduConfig:
   ClientID: ''
   ClientSecret: ''
-  RefreshToken: ''
-  DownloadPath: /SharpBot
+  DownloadPath: ''
 TelegramConfig:
   BotToken: ''
   ChatID: ''

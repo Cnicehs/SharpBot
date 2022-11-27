@@ -1,11 +1,4 @@
 ﻿FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
-RUN apt-get update
-RUN apt-get install python3 -y
-RUN apt-get install python3-pip -y
-RUN pip install requests
-RUN apt-get purge python3-pip -y
-RUN apt-get autoremove -y
-RUN apt-get clean
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 WORKDIR /app
 
