@@ -9,7 +9,7 @@ version: "3"
 
 services:
   sharpbot:
-    image: crinte/sharpbot:master
+    image: crinte/sharpbot:main
     restart: unless-stopped
     container_name: sharpbot
     environment:
