@@ -21,6 +21,7 @@ services:
       SharpBot_BaiduConfig_DownloadPath: #网盘内的存放位置，该位置必须是已经存在的文件夹
       SharpBot_TelegramConfig_BotToken: #TelegramBot的token
       SharpBot_TelegramConfig_ChatID: #用户自身的TelegramID，用于生成百度Token时的操作交互
+      SharpBot_TelegramConfig_TransFinishAddtionDesc: #执行结束后的通知文本，如到Alist查看转存结果
     volumes:
       - ./sharpbot/config:/app/config
 ```  
@@ -33,4 +34,6 @@ services:
 链接：https://pan.baidu.com/s/15yXtvMIKaozgfdw5dMRy0A 
 提取码：lsol 
 --来自百度网盘超级会员V6的分享
-```
+```  
+## Licence
+[MIT licence](https://github.com/Cnicehs/SharpBot/blob/main/LICENSE)

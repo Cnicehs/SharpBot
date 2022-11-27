@@ -5,4 +5,4 @@ BaiduConfig:
 TelegramConfig:
   BotToken: ''
   ChatID: ''
-  TransFinishAddtionDesc: 到alist查看转存结果
+  TransFinishAddtionDesc: ''
